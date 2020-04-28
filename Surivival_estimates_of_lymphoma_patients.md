@@ -56,24 +56,7 @@ data.head()
     data shape: (80, 3)
 
 
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
+<table border="1">
   <thead>
     <tr style="text-align: right;">
       <th></th>
@@ -115,7 +98,7 @@ data.head()
     </tr>
   </tbody>
 </table>
-</div>
+
 
 
 
@@ -507,22 +490,7 @@ survivals
 
 
 
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
+<table border="1">
   <thead>
     <tr style="text-align: right;">
       <th></th>
@@ -558,7 +526,7 @@ survivals
     </tr>
   </tbody>
 </table>
-</div>
+
 
 
 
