@@ -182,9 +182,9 @@ plt.show()
 
 estimate the survival function:
 
-$$
+
 S(t) = P(T > t)
-$$
+
 
 we'll start with a naive estimator of the above survival function. To estimate this quantity, we'll divide the number of people who we know lived past time $t$ by the number of people who were not censored before $t$.
 
