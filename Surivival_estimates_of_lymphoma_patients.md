@@ -1,12 +1,11 @@
-# Title
-> summary
+# Survival Estimates lymphoma patients
+> Using Python to build some of the statistical models to analyze surivival estimates for a dataset of lymphoma patients. This is Survival estimates that vary with time.
 
 
 <a href="https://colab.research.google.com/github/kirankamatmgm/Surivival-estimates-of-lymphoma-patients/blob/master/Surivival_estimates_of_lymphoma_patients.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-# Survival Estimates lymphoma patients
 
-Using Python to build some of the statistical models to analyze surivival estimates for a dataset of lymphoma patients. This is Survival estimates that vary with time.
+
 ### Project is based on knowledge of
 - Censored Data
 - Kaplan-Meier Estimates
