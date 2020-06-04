@@ -19,3 +19,5 @@ Also check difference in survival between the Stage III and IV cancer groups in 
 At the end using Logrank Test to indicates that the difference in the curves.
 
 For detailed blog check my [blogsite **https://kirankamath.netlify.app**](https://kirankamath.netlify.app/blog/survival-estimates-lymphoma-patients/)
+
+credits: coursera Ai in medicine course
